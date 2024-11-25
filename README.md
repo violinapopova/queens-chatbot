@@ -104,11 +104,11 @@ Queens ChatBot is a React Native chatbot application using Expo.
 
 **Want to create a new project?**
    
-    `npx create-expo-app --template`
+- `npx create-expo-app --template`
     
     or 
 
-    `npx create-expo-app@latest`
+- `npx create-expo-app@latest`
   
 
 ### For more details, check the Expo documentation: 
