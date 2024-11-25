@@ -102,7 +102,7 @@ Queens ChatBot is a React Native chatbot application using Expo.
 - `react-native-vector-icons`: Customizable icons for React Native.
 
 
-## Want to create a new project? 
+**Want to create a new project?**
     ```sh
     npx create-expo-app --template
     ```
