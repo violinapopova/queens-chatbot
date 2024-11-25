@@ -115,6 +115,4 @@ Queens ChatBot is a React Native chatbot application using Expo.
     🔗 https://docs.expo.dev/more/create-expo/
 
 
-## License
 
-This project is licensed under the MIT License.
