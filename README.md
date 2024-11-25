@@ -13,7 +13,7 @@ Queens ChatBot is a React Native chatbot application using Expo.
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/violinapopova/queens-chatbot.git
     cd queens-chat
     ```
 
