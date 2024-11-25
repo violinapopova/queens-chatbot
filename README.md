@@ -114,11 +114,6 @@ Queens ChatBot is a React Native chatbot application using Expo.
 ### For more details, check the Expo documentation: 
     🔗 https://docs.expo.dev/more/create-expo/
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-11-23 at 18 23 47](https://github.com/user-attachments/assets/81e0d35a-4147-4ddb-9d65-dc27572e9dc6)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-11-23 at 18 23 47](https://github.com/user-attachments/assets/e088465c-02dd-4f9d-9207-1cc828249b6a)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-11-23 at 20 44 12](https://github.com/user-attachments/assets/9241520e-687d-478c-9f6c-ee94ee20aba2)
 
 ## License
 
