@@ -1,5 +1,5 @@
 import { StyleSheet, View } from 'react-native';
-import ChatBot from '../src/Chatbot';
+import ChatBot from './src/ChatBot';
 
 export default function App() {
   return (
